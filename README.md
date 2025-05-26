@@ -79,7 +79,6 @@ python manage.py runserver
 - `kitapapi/views.py`: API uç noktaları (kitap liste, detay, öneri, bulunabilirlik).
 - `kitapapi/serializers.py`: Model verilerini JSON'a dönüştüren serializer'lar.
 - `kitapapi/management/commands/load_sample_books.py`: JSON'dan veritabanına örnek veri yükleme komutu.
-- `data/sample_books.json`: Sahte kitap verileri.
 
 ### Ana Sayfa
 
