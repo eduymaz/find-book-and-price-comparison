@@ -1,5 +1,5 @@
 #!/bin/bash
-# Proje kurulum scripti
+# Project installation script
 
 echo "✅ find-book-api kurulumu başlatılıyor..."
 
